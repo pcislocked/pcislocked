@@ -7,8 +7,11 @@ My github page will contain information about the pcislocked himself(I'm a male 
 Also I will upload my stupid programming stuff here as well.
 
 mail: sa@pcislocked.net
+
 telegram: @kimdenkimene
+
 youtube.com/pcislocked
+
 pcislocked.net
 
 <!--
