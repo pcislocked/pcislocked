@@ -1,17 +1,11 @@
 ### pcislocked github page
 
-This is a page for pcislocked, the maniac that goes crazy on the internet since 2011. No, it's not a three person thing. It's one person only.
+**The source code for pcislocked-bot will be hosted at pcislocked.net or maybe at the discord page, idk. it turns out github can't handle based content at all**
 
-My github page will contain information about the pcislocked himself(I'm a male till someone cuts my dick off), how to reach me and stuff like that.
-
-Also I will upload my stupid programming stuff here as well.
-
+contact:
 mail: sa@pcislocked.net
-
 telegram: @kimdenkimene
-
 youtube.com/pcislocked
-
 pcislocked.net
 
 <!--
