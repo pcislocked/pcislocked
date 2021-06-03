@@ -1,11 +1,16 @@
 ### pcislocked github page
 
+
 **The source code for pcislocked-bot will be hosted at pcislocked.net or maybe at the discord page, idk. it turns out github can't handle based content at all**
 
 contact:
+
 mail: sa@pcislocked.net
+
 telegram: @kimdenkimene
+
 youtube.com/pcislocked
+
 pcislocked.net
 
 <!--
