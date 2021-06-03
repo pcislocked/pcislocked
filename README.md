@@ -1,7 +1,7 @@
 ### pcislocked github page
 
 
-**The source code for pcislocked-bot is hosted at pcislocked.net, as well as at the #general channel at my (discord)[http://discord.pcislocked.net/], idk. it turns out github can't handle based content at all**
+**The source code for pcislocked-bot is hosted at pcislocked.net, as well as at the #general channel at my [discord](http://discord.pcislocked.net/), idk. it turns out github can't handle based content at all**
 
 contact:
 
