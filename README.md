@@ -1,8 +1,5 @@
 ### pcislocked github page
 
-
-**The source code for pcislocked-bot is hosted at pcislocked.net, as well as at the #general channel at my [discord](http://discord.pcislocked.net/), idk. it turns out github can't handle based content at all**
-
 contact:
 
 mail: sa@pcislocked.net
@@ -18,12 +15,12 @@ pcislocked.net
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on this page
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about anything
+- 📫 How to reach me: don't
+- 😄 Pronouns: attack helicopter
+- ⚡ Fun fact: i like trains
 -->
