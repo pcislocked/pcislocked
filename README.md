@@ -10,6 +10,8 @@ youtube.com/pcislocked
 
 pcislocked.net
 
+[ssh public key](https://github.com/pcislocked.keys)
+
 <!--
 **pcislocked/pcislocked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
