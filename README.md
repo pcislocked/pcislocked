@@ -4,7 +4,7 @@ contact:
 
 mail: sa@pcislocked.net
 
-telegram: @kimdenkimene
+telegram: @pit10lympos
 
 youtube.com/pcislocked
 
