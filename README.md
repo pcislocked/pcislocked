@@ -1,4 +1,8 @@
-### pcislocked github page
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/pcislocked/pcislocked/blob/main/atat.jpg?raw=true');]{x0000}$}
+```
+### pcislocked's github page
 
 contact:
 
@@ -27,5 +31,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i like trains
 -->
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://pcislocked.net/cdn/atat.jpg');]{x0000}$}
